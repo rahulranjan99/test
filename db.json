@@ -1,6 +1,6 @@
 {
-  "posts": [
-  	{
+  "testData": [
+    {
     "Item name": "morpheus",
     "Item code": "LCC 106",
     "warehouse": "TN",
@@ -9,7 +9,7 @@
     "batch no":"21-1002",
     "date":"09-12-2021",
 },
-{
+    {
     "Item name": "morpheus",
     "Item code": "LCC 106",
     "warehouse": "TN",
@@ -18,5 +18,5 @@
     "batch no":"21-1002",
     "date":"09-12-2021",
 }
-    ]
+   ]
 }
