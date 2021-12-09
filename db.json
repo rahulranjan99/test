@@ -1,6 +1,5 @@
 {
-  "testData": [
-    {
+  
       "Item name": "morpheus",
       "Item code": "LCC 106",
       "warehouse": "TN",
@@ -8,35 +7,5 @@
       "colour": "LE065",
       "batch no": "21-1002",
       "date": "09-12-2021"
-    },
-    {
-      "Item name": "morpheus",
-      "Item code": "LCC 106",
-      "warehouse": "TN",
-      "size": "LE065",
-      "colour": "LE065",
-      "batch no": "21-1002",
-      "date": "09-12-2021"
-    }
-  ],
-  "test": [
-    {
-      "Item name": "morpheus",
-      "Item code": "LCC 106",
-      "warehouse": "TN",
-      "size": "LE065",
-      "colour": "LE065",
-      "batch no": "21-1002",
-      "date": "09-12-2021"
-    },
-    {
-      "Item name": "morpheus",
-      "Item code": "LCC 106",
-      "warehouse": "TN",
-      "size": "LE065",
-      "colour": "LE065",
-      "batch no": "21-1002",
-      "date": "09-12-2021"
-    }
-  ]
+    
 }
