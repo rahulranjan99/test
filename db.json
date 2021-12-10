@@ -1,0 +1,24 @@
+{
+  "testData": [
+    {
+      "id": 1,
+      "Item name": "morpheus",
+      "Item code": "LCC 106",
+      "warehouse": "TN",
+      "size": "LE065",
+      "colour": "LE065",
+      "batch no": "21-1002",
+      "date": "09-12-2021"
+    },
+    {
+      "id": 2,
+      "Item name": "morpheus",
+      "Item code": "LCC 106",
+      "warehouse": "WB",
+      "size": "LE065",
+      "colour": "LE065",
+      "batch no": "21-1003",
+      "date": "09-12-2021"
+    }
+  ]
+}
